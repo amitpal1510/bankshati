@@ -1,0 +1,930 @@
+    @media screen and (max-width: 1600px) {
+        .history-p::after {
+            width: 100%;
+        }
+
+        #service-main::after {
+            width: 100%;
+            height: 100%;
+        }
+
+        .follow {
+            left: 15px;
+        }
+
+        .berkley-information {
+            width: 50%;
+        }
+
+        .berkley-img {
+            width: 50%;
+        }
+
+        .customer-box p {
+            width: 370px;
+        }
+
+        .logo a img {
+            width: 200px;
+            height: 70px;
+        }
+
+        .years a img {
+            height: 75px;
+        }
+    }
+
+    @media screen and (max-width: 1279px) {
+
+        .engineering-img::after {
+            display: none;
+            position: static;
+        }
+
+        #engineering-main {
+            position: static;
+        }
+
+        .berkley-information {
+            width: 100%;
+        }
+
+        .berkley-img {
+            width: 100%;
+        }
+
+        .request a i {
+            position: static;
+            transform: translate(0);
+            padding-left: 10px;
+        }
+
+        .follow a img {
+            width: 200px;
+            height: 200px;
+        }
+
+        .customer-box p {
+            width: 100%;
+        }
+
+        .customer-slider-main {
+            width: 50%;
+        }
+
+        .covid-19 ul li a {
+            padding: 0 9px;
+        }
+
+        .banner-prithi {
+            width: 581px;
+            height: 581px;
+        }
+
+        .plan-blog {
+            width: 580px;
+            height: 580px;
+        }
+
+        .banner-prithi a img {
+            width: 500px;
+            height: 500px;
+        }
+
+        .banner-img-main .plan-img {
+            width: 550px;
+            height: 550px;
+        }
+
+        .quality {
+            top: 185px;
+            right: -56px;
+        }
+
+        .repair {
+            top: 338px;
+            right: -141px;
+        }
+
+        .investor {
+            top: 492px;
+            right: -61px;
+        }
+
+        .contact {
+            top: 586px;
+        }
+
+        .jobs {
+            top: 485px;
+            left: 33px;
+        }
+
+        .accounting {
+            top: 334px;
+            left: -89px;
+        }
+
+        .engineer {
+            top: 171px;
+            left: -209px;
+        }
+
+        .parts {
+            top: 36px;
+            left: -24px;
+        }
+
+        .about-us {
+            top: 38px;
+            right: 11px;
+        }
+
+        .engineering-img {
+            width: 50%;
+        }
+
+        .engineering-img a img {
+            width: 100%;
+        }
+
+        .engineering-information {
+            width: 50%;
+        }
+
+        .engineer-cap {
+            width: 100% !important;
+            padding-right: 12px !important;
+
+        }
+
+        .service-slider-main {
+            width: 55%;
+        }
+
+        .service-text {
+            width: 45%;
+
+        }
+
+        .bf-ap-img {
+            padding: 0;
+        }
+
+    }
+
+
+    @media screen and (max-width: 1024px) {
+
+
+
+        .berkley-img a img {
+            height: 320px;
+        }
+
+        .history-hading {
+            width: 50%;
+        }
+
+
+        .plan-blog {
+            width: 400px;
+            height: 400px;
+        }
+
+        .banner-prithi a img {
+            width: 350px;
+            height: 350px;
+        }
+
+        .banner-img-main .plan-img {
+            width: 370px;
+            height: 370px;
+        }
+
+        .about-us {
+            top: 20px;
+            right: -12px;
+        }
+
+        .quality {
+            right: -50px;
+            top: 123px;
+        }
+
+        .repair {
+            right: -120px;
+            top: 234px;
+        }
+
+        .investor {
+            top: 332px;
+            right: -70px;
+        }
+
+        .contact {
+            top: 410px;
+        }
+
+        .jobs {
+            top: 329px;
+            left: 4px;
+        }
+
+        .accounting {
+            top: 224px;
+            left: -89px;
+        }
+
+        .engineer {
+            top: 107px;
+            left: -213px;
+        }
+
+        .parts {
+            top: 20px;
+            left: -60px;
+        }
+
+        .menu-main ul li a {
+            font-size: 16px;
+        }
+
+        #banner-main {
+            padding-top: 190px;
+        }
+
+        .follow {
+            bottom: -70px;
+        }
+
+        .app {
+            top: 0;
+            right: 20px;
+        }
+
+        .banner-arrow {
+            position: absolute;
+            bottom: -83px;
+            right: 20px;
+        }
+
+        .covid-19 ul li a {
+            padding: 0 6px;
+            font-size: 14px;
+        }
+
+        .slider-box {
+            justify-content: space-between;
+        }
+    }
+
+    @media screen and (max-width: 992px) {
+
+        .covid-19 ul li {
+            border-right: 0;
+        }
+        .service-slider-main {
+            width: 100%;
+            order: 1;
+            border: 1px solid #0033AB;
+        }
+
+        .service-text {
+            width: 100%;
+        }
+
+        .engineer-cap h2 {
+            max-width: 100%;
+        }
+
+        .service {
+            flex-direction: column-reverse;
+        }
+
+        /* .bf-ap-img {
+            padding-left: 160px;
+        }
+        #comparison {
+            width: 422px;
+            height: 390px;
+            padding-bottom: 0;
+        }
+        #divisor{ */
+        /* width: 80% !important; */
+        /* } */
+        .engineering-information h2 {
+            font-size: 30px;
+            padding-top: 20px;
+        }
+
+        .engineer-cap {
+            text-align: center;
+        }
+
+        .request a {
+            width: 357px;
+        }
+
+        .request {
+            display: inline-block;
+        }
+
+        #comparison {
+            width: 322px;
+            height: 403px;
+        }
+
+        .engineering {
+            flex-wrap: wrap;
+        }
+
+        .engineering-img {
+            width: 100%;
+        }
+
+        .engineering-information {
+            width: 100%;
+            text-align: center;
+        }
+
+        .engineering-img a img {
+            height: 300px;
+        }
+
+        .engineering-information p {
+            padding: 10px 0 20px 0;
+        }
+
+        .footer-form {
+            width: 100%;
+        }
+
+        .contact-infomation {
+            width: 100%;
+            padding-top: 30px;
+        }
+
+        #footer-main a img {
+            width: 100%;
+            height: 770px;
+            object-fit: cover;
+        }
+
+        .history-main {
+            flex-wrap: wrap;
+        }
+
+        .history-p {
+            padding: 0 0 40px 0;
+        }
+
+        .history-hading h2 {
+            padding-top: 30px;
+            font-size: 60px;
+        }
+
+        #engineering-main {
+            padding: 60px 0;
+        }
+
+        .berkley-text {
+            padding: 25px 20px;
+        }
+
+        .berkley-text h2 {
+            padding-bottom: 10px;
+            font-size: 32px;
+        }
+
+        .follow {
+            display: none;
+        }
+
+        #customer-main {
+            padding-top: 50px;
+        }
+
+        .footer-menu-bar {
+            display: block;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .footer-menu-bar p {
+            font-size: 24px;
+            color: #fff;
+            font-family: 'PT Sans Narrow', sans-serif;
+            font-weight: 400;
+        }
+
+        .footer-menu-bar a i {
+            color: #fff;
+            transform: rotate(90deg);
+            transition: all 0.5s;
+        }
+
+        .footer-menu-bar.icon a> i{
+            transform: rotate(272deg);
+            color: black;
+        }
+
+        /* .covid-19 ul{
+            visibility: hidden;
+            width: 200px;
+            height: 200px;
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 112;
+            display: block;
+            background-color: blue;
+
+        } */
+
+        .covid-19 ul {
+            display: none;
+            text-align: center;
+
+        }
+
+        .covid-19 ul li {
+            padding: 10px 0;
+        }
+
+        #covid-19-main {
+            padding: 10px 0;
+            position: relative;
+        }
+
+        .covid-19.ftr-menu ul {
+            visibility: visible !important;
+        }
+
+        .footer-menu-bar a {
+            display: inline-block;
+        }
+    }
+
+    @media screen and (max-width: 767px) {
+
+        .menu-main ul {
+            /* display: none; */
+        }
+
+        .menu-main ul li a {
+            font-size: 0;
+        }
+
+        .menu-main ul li a::after {
+            width: 15px;
+            height: 15px;
+            display: none;
+        }
+
+        .home {
+            top: -10px;
+        }
+
+        .about-us {
+            top: 39px;
+            right: 60px;
+        }
+
+        .quality {
+            right: 1px;
+        }
+
+        .repair {
+            right: -4px !important;
+        }
+
+        .parts {
+            top: 29px;
+            left: 73px;
+        }
+
+        .investor {
+            top: 337px;
+            right: 56px;
+        }
+
+        .contact {
+            top: 391px;
+        }
+
+        .jobs {
+            top: 335px;
+            left: 54px;
+        }
+
+        .accounting {
+            top: 233px;
+            left: -6px;
+        }
+
+        .engineer {
+            top: 128px;
+            left: 1px;
+        }
+
+        .customer-text {
+            width: 100%;
+            padding-top: 40px;
+            border-top: 1px solid black;
+            margin-top: 20px;
+        }
+
+        .customer {
+            flex-wrap: wrap;
+            flex-direction: column-reverse;
+        }
+
+        .customer-slider-main {
+            width: 100%;
+        }
+
+        .customer-text h2 {
+            padding: 8px 0;
+            max-width: 100%;
+            letter-spacing: 0;
+        }
+
+        .banner-prithi {
+            width: 100%;
+        }
+
+        .menu-main ul li a {
+            width: 15px;
+            height: 15px;
+            background-color: #0033AB;
+            border-radius: 50%;
+        }
+
+        #header-main {
+            padding-top: 30px;
+        }
+
+        #banner-main {
+            padding-top: 150px;
+            padding-bottom: 90px;
+            overflow: hidden;
+        }
+
+        #berkley-main {
+            padding-top: 50px;
+        }
+
+        .berkley-img a img {
+            height: 220px;
+            object-fit: cover;
+        }
+
+        .berkley-text p {
+            font-size: 16px;
+        }
+
+        .berkley-text h2 {
+            font-size: 22px;
+        }
+
+        .history-p p {
+            font-size: 16px;
+        }
+
+        #engineering-main {
+            padding: 50px 0;
+        }
+
+        .engineering-img a img {
+            height: 220px;
+            object-fit: cover;
+        }
+
+        .engineering-information {
+            padding-left: 0;
+        }
+
+        .engineering-information h2 {
+            font-size: 22px;
+        }
+
+        #service-main {
+            padding: 50px 0;
+        }
+
+        .engineering-information p {
+            font-size: 18px;
+        }
+
+        .customer-box p {
+            padding: 20px 0 15px 0;
+        }
+
+        .customer-text p {
+            font-size: 18px;
+            padding-bottom: 5px;
+        }
+
+        .customer-text h2 {
+            font-size: 28px;
+        }
+
+        .contact-infomation {
+            padding: 0;
+        }
+
+        .contact-infomation h2 {
+            padding: 20px 0;
+        }
+
+        .moblie-menu ul {
+            width: 100%;
+            height: 100vh;
+            visibility: hidden;
+            position: fixed;
+            top: 0;
+            left: -100%;
+            background-color: rgba(0, 0, 0, 80%);
+            z-index: 111;
+            padding: 60px 0;
+            display: block;
+            text-align: center;
+            transition: all 0.5s;
+        }
+
+        .moblie-menu ul.moblie-show {
+            visibility: visible !important;
+            left: 0;
+        }
+
+        .moblie-back-btn {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+        }
+
+        .moblie-menu ul li {
+            padding: 8px 0;
+        }
+
+        .moblie-menu ul li a {
+            color: #fff;
+            font-family: 'PT Sans Narrow', sans-serif;
+            font-size: 18px;
+        }
+
+        .moblie-menu .moblie-back-btn i {
+            font-size: 28px;
+            color: #fff;
+        }
+
+        .moblie-menu {
+            position: relative;
+        }
+
+        .moblie-menu-bar-btn {
+            position: absolute;
+            top: 0;
+            right: 15px;
+        }
+
+
+        .moblie-menu-bar-btn i {
+            font-size: 38px;
+            color: #ffffff;
+        }
+
+        .years {
+            padding-right: 50px;
+        }
+
+        .logo a img {
+            width: 150px;
+            height: 50px;
+        }
+
+        .years a img {
+            height: 50px;
+        }
+
+        .moblie-menu {
+            display: block;
+        }
+
+
+        .social-btn {
+            display: block !important;
+            writing-mode: vertical-lr;
+            font-size: 15px;
+            font-family: 'Roboto';
+            letter-spacing: 1px;
+            background: #000;
+            color: #fff;
+            padding: 15px 5px;
+            border-radius: 0 20px;
+            height: 75px;
+            cursor: pointer;
+        }
+
+        .app {
+            position: absolute;
+            right: -46px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transition: right 1s;
+            top: -30px;
+            z-index: 9999;
+
+        }
+
+        .app ul li {
+            padding: 7px 0;
+        }
+
+        .app ul {
+            background: #fff;
+            border-radius: 10px 0 0 10px;
+            padding: 10px 15px;
+        }
+
+        .app.open {
+            right: 0;
+        }
+
+        .banner-arrow {
+            bottom: -65px;
+        }
+
+        .banner-arrow>a>img {
+            width: 100%;
+            height: 80px;
+        }
+
+        .history-hading h2 {
+            font-size: 32px;
+        }
+    }
+
+    @media screen and (max-width: 576px) {
+
+        .form-box input {
+            height: 40px;
+            padding: 0 15px;
+        }
+        .customer-text>a>img {
+            width: 100%;
+        }
+
+        #comparison {
+            width: 174px;
+            height: 232px;
+        }
+
+        .contact-box {
+            width: 100%;
+            border-bottom: 1px solid #fff;
+            padding: 15px 15px 15px 0;
+        }
+
+        #footer-main a img {
+            height: 1100px;
+        }
+
+        .aog-line {
+            /* border: 0; */
+            border-left: 0;
+            border-right: 0;
+        }
+
+        .account {
+            border: 0;
+        }
+
+        .contact-infomation h2 {
+            padding-top: 30px;
+            padding-bottom: 0;
+        }
+
+
+        .before-after a {
+            font-size: 18px;
+            color: #0033AB;
+            text-transform: uppercase;
+        }
+
+        figure {
+            background-position-x: -137px;
+        }
+
+        .request a {
+            max-width: 318px;
+            font-size: 18px;
+            padding: 7px 0;
+        }
+
+        .form-row {
+            flex-wrap: wrap;
+            row-gap: 10px;
+            padding-bottom: 10px;
+        }
+
+        .get-form {
+            padding: 20px 10px 14px 10px;
+        }
+
+        .international a {
+            font-size: 14px;
+        }
+
+        .footer-header {
+            row-gap: 5px;
+        }
+
+        .banner-prithi a img {
+            width: 260px;
+            height: 260px;
+        }
+
+        .banner-img-main .plan-img {
+            width: 290px;
+            height: 290px;
+        }
+        .plan-blog {
+            width: 300px;
+            height: 300px;
+        }
+        .app {
+            top: -80px;
+        }
+        .about-us {
+            top: 24px;
+            right: 45px;
+        }
+        .quality {
+            right: -4px;
+            top: 96px;
+        }
+        .repair {
+            right: -8px;
+            top: 172px;
+        }
+        .investor {
+            top: 253px;
+            right: 36px;
+        }
+        .contact {
+            top: 290px;
+        }
+        .jobs {
+            top: 250px;
+            left: 38px;
+        }
+        .accounting {
+            top: 174px;
+        }
+        .engineer {
+            top: 94px;
+            left: -3px;
+        }
+        .parts {
+            top: 16px;
+            left: 55px;
+        }
+        .banner-arrow>a>img {
+            height: 70px;
+        }
+        .arrow-b> a> img{
+            width: 100%;
+            height: 15px;
+        } 
+        .berkley-text h2 {
+            font-size: 18px;
+            padding: 7px 0;
+        }
+        .arrow-icon button {
+            padding: 4px;
+        }
+        .customer-box p {
+            font-size: 18px;
+        }
+        .customer-text h2 {
+            font-size: 21px;
+        }
+        .customer-text p {
+            font-size: 16px;
+        }
+        .form-send {
+            width: 100%;
+            padding: 10px 20px;
+        }
+        .slick-slide img   {
+            width: 30px;
+            height: 30px;
+        }
+        .back-to-top {
+            padding: 8px;
+        }
+    }
