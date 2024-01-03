@@ -16,7 +16,7 @@ h1,h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
 h1 {
-  font-size: 48px;
+  font-size: 46px;
 }
 h2 {
   font-size: 40px;
@@ -39,7 +39,7 @@ p {
   font-family: var(--secondary-font);
   color: var(--black-color);
   line-height: 24px;
-  margin-bottom: 20px;
+  margin-bottom: 22px;
 }
 
 p:last-child {
