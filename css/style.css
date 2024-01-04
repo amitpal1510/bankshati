@@ -1126,3 +1126,8 @@ body{
   .back-to-top:hover{
     background-color: #7AD5E1;
   }
+
+  .loder{
+    background-color: violet;
+    
+  }
