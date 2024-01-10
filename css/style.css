@@ -239,6 +239,7 @@ body{
 .parts{
     top: 45px;
     left:0;
+    top: 50%;
 }
 
 
@@ -250,7 +251,7 @@ body{
     top: 0;
     left: 0;
     content: "";
-    background-color: #0033AB;
+    background-color: #0c2256;
     border-radius: 50%;
 }
 
@@ -310,7 +311,7 @@ body{
 }
 
 .banner-img-main.about .plan-img{
-    transform: translate(-50%, -50%) rotate(40deg);
+    transform: translate(-50%, -50%) rotate(50deg);
 
 }
 
@@ -433,7 +434,7 @@ body{
 .berkley-text h2{
     font-family: 'Roboto', sans-serif;
     font-size: 36px;
-    color: #ffffff;
+    color: #fff;
     font-weight: 900;
     padding: 17px 0 20px 0;
     text-transform: uppercase;
@@ -466,7 +467,7 @@ body{
 .history-p p{
     max-width: 870px;
     font-size: 25px;
-    color: #000000;
+    color: #111;
     font-family: 'PT Sans Narrow', sans-serif;
     padding-top: 15px;
 
