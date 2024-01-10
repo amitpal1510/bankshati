@@ -37,7 +37,7 @@
     @media screen and (max-width: 1279px) {
 
         .engineering-img::after {
-            display: none;
+            display: block;
             position: static;
         }
 
@@ -56,7 +56,7 @@
         .request a i {
             position: static;
             transform: translate(0);
-            padding-left: 10px;
+            padding-left: 20px;
         }
 
         .follow a img {

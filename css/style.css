@@ -132,7 +132,7 @@ body{
     top: 0;
     right: 0;
     content: "";
-    background-color: #7ED6E2;
+    background-color: #ddd;
 
 }
 
@@ -465,7 +465,7 @@ body{
 
 .history-p p{
     max-width: 870px;
-    font-size: 20px;
+    font-size: 25px;
     color: #000000;
     font-family: 'PT Sans Narrow', sans-serif;
     padding-top: 15px;
